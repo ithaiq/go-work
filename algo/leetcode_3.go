@@ -36,6 +36,3 @@ func lengthOfLongestSubstring(s string) int {
 	}
 	return maxLen
 }
-func main() {
-	lengthOfLongestSubstring("ohvhjdml")
-}
