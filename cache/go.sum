@@ -1,0 +1,4 @@
+github.com/allegro/bigcache/v2 v2.2.4 h1:KuqdWxz12ywtykdsk+SlTKu6TW0ADLGwtisGN+JfKYw=
+github.com/allegro/bigcache/v2 v2.2.4/go.mod h1:FppZsIO+IZk7gCuj5FiIDHGygD9xvWQcqg1uIPMb6tY=
+github.com/matryer/is v1.4.0 h1:sosSmIWwkYITGrxZ25ULNDeKiMNzFSr4V/eqBQP0PeE=
+github.com/matryer/is v1.4.0/go.mod h1:8I/i5uYgLzgsgEloJE1U6xx5HkBQpAZvepWuujKwMRU=
